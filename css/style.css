@@ -7,7 +7,7 @@ html,body {
 header {
 
     background-color:rgb(246, 246, 161);
-   padding:50px;
+   padding:0px;
     text-align: center;
     border-radius:50px;         
 }
@@ -41,7 +41,7 @@ header img {
 
     max-width: 900px;
     margin: 0 20px;
-    padding:0 20px;
+    padding:0 0px;
 
 }
 
